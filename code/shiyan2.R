@@ -1,2 +1,2 @@
-head(mtcars)
-head(mtcars)
+df=head(mtcars)
+df
